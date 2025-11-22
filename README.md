@@ -35,7 +35,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 My Static Website</p>
+        <p>&copy; 2025 Static Website</p>
     </footer>
 </body>
 </html>
